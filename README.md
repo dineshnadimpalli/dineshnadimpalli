@@ -1,16 +1,19 @@
-### Hi there 👋
+<body style="background-color:#202020; color:#fff">
 
-<!--
-**dineshnadimpalli/dineshnadimpalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 style="font-weight:bold">Hi Mate 👋😁 Welcome to my Page!</h1>
+<br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <div style="display:flex;flex-direction:row;align-items:center">
+    <div style="width:50%;padding-right:20px">
+      <p style="font-size:16px">I am a self-motivated and passionate  individual who loves to code👨🏻‍💻, build🛠 and colloborate🤝in creating software products that creates impact
+      </p>
+      <p style="font-size:16px">I have worked with both Product and Service based companies in web, mobile application development and also an active colloborator in tech community forums</p>
+    </div>
+    <div style="width:50%">
+      <img width="300px" src="./undraw_on_the_office_fbfs.svg"
+    </div>
+  </div>
+
+</body>
+
