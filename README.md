@@ -29,17 +29,20 @@ I am a self-motivated and passionate  individual who loves to code👨🏻‍�
 
  <img  align="right" src="https://github-readme-stats.vercel.app/api?username=dineshnadimpalli&show_icons=true&text_color=fff&icon_color=00C853&title_color=00C853&bg_color=202020">
 
-## **My Tech Stack** 👨🏻‍🔧
+## **My Tech** 👨🏻‍🔧
 
-<img width="36px" alt="javascript" src="./javascript.svg">&nbsp;
-<img width="46px" alt="react" src="./react.svg">&nbsp;
-<img width="36px" alt="html" src="./html-5.svg">&nbsp;
-<img width="36px" alt="css" src="./css-3.svg">&nbsp;
+<img width="36px" alt="javascript" src="https://raw.githubusercontent.com/dineshnadimpalli/dineshnadimpalli/e964d4b425f5a5f7453984cddc4b4b242aff30e6/javascript.svg">&nbsp;
+<img width="46px" alt="react" src="https://raw.githubusercontent.com/dineshnadimpalli/dineshnadimpalli/e964d4b425f5a5f7453984cddc4b4b242aff30e6/react.svg">&nbsp;
+<img width="46px" alt="redux" src="https://raw.githubusercontent.com/dineshnadimpalli/dineshnadimpalli/e964d4b425f5a5f7453984cddc4b4b242aff30e6/redux.svg">&nbsp;
+<img width="46px" alt="nodejs" src="https://raw.githubusercontent.com/dineshnadimpalli/dineshnadimpalli/e964d4b425f5a5f7453984cddc4b4b242aff30e6/nodejs.svg">&nbsp;
+<img width="46px" alt="git" src="https://raw.githubusercontent.com/dineshnadimpalli/dineshnadimpalli/e964d4b425f5a5f7453984cddc4b4b242aff30e6/git.svg">&nbsp;
+<img width="36px" alt="html" src="https://raw.githubusercontent.com/dineshnadimpalli/dineshnadimpalli/e964d4b425f5a5f7453984cddc4b4b242aff30e6/html-5.svg">&nbsp;
+<img width="36px" alt="css" src="https://raw.githubusercontent.com/dineshnadimpalli/dineshnadimpalli/e964d4b425f5a5f7453984cddc4b4b242aff30e6/css-3.svg">&nbsp;
 
 
 ## **You can Reach out to me on** 
 
-<a href="https://dineshnadimpalli.com" target="_blank">Dinesh Nadimpalli</a>
+### **<a href="https://dineshnadimpalli.com" target="_blank">Dinesh Nadimpalli</a>**
 
 </br>
 </br>
