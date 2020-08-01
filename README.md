@@ -47,5 +47,4 @@ I am a self-motivated and passionate  individual who loves to code👨🏻‍�
 </br>
 </br>
 
-<!-- [![Total Visitors](http://hits.dwyl.com/KarthikNayak024/KarthikNayak024.svg)](http://hits.dwyl.com/KarthikNayak024/KarthikNayak024) -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dineshnadimapalli" alt="dineshnadimapalli" /> </p>
